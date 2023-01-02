@@ -1,1 +1,1 @@
-# Panda-and-Numpy-basics
+# Pandas-and-Numpy-Functions
